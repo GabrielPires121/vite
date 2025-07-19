@@ -1,0 +1,3 @@
+npm create vite@latest meu-app-de-estoque -- --template react
+cd meu-app-de-estoque
+npm install @react-three/fiber @react-three/drei zustand three
